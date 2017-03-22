@@ -4,9 +4,9 @@
 Usage:
 
 ```js
-  const activityTypes = require('activity-types')
+  const activityNames = require('activity-names')
   const rawName = getActivityNameFromSomeWhere()
-  const normcoreName = activityTypes(rawName)
+  const normcoreName = activityNames(rawName)
   // ...now do some aggregations that prefer normalised names.
 ```
 
