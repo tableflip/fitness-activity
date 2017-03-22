@@ -1,0 +1,11 @@
+{
+  "name": "runkeeper-activity-types",
+  "version": "1.0.0",
+  "description": "All the Strava activity types exported as an array'o'string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olizilla",
+  "license": "AGPL-3.0"
+}

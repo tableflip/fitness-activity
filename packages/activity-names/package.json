@@ -1,0 +1,17 @@
+{
+  "name": "activity-names",
+  "version": "1.0.0",
+  "description": "Normalised fitness activity names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "olizilla",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "tape": "^4.6.3"
+  },
+  "devDependencies": {
+    "standard": "^9.0.2"
+  }
+}
