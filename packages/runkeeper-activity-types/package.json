@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "olizilla",
-  "license": "AGPL-3.0"
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/fitness-activity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/fitness-activity/issues"
+  },
+  "homepage": "https://github.com/tableflip/fitness-activity#readme"
 }

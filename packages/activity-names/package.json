@@ -12,5 +12,16 @@
   "devDependencies": {
     "standard": "^9.0.2",
     "tape": "^4.6.3"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tableflip/fitness-activity.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tableflip/fitness-activity/issues"
+  },
+  "homepage": "https://github.com/tableflip/fitness-activity#readme"
 }
