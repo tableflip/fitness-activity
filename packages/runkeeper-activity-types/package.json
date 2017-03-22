@@ -1,6 +1,6 @@
 {
   "name": "runkeeper-activity-types",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "All the Strava activity types exported as an array'o'string.",
   "main": "index.js",
   "scripts": {
