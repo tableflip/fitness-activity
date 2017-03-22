@@ -1,6 +1,6 @@
 {
   "name": "activity-names",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Normalised fitness activity names",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,7 @@
   },
   "author": "olizilla",
   "license": "AGPL-3.0",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "standard": "^9.0.2",
     "tape": "^4.6.3"
