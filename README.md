@@ -30,6 +30,8 @@ More generally the normalisation is:
 Use https://github.com/samuelmr/google-fit-activity-types to convert from a
 google-fit numeric activity id to a activity name first.
 
+![Yeah I'm into fitness. Fitness whole pizza in my mouth.](https://s-media-cache-ak0.pinimg.com/736x/fc/36/33/fc3633c0e6da3a7e89a168b707675986.jpg)
+
 ---
 
 A [(╯°□°）╯︵TABLEFLIP](https://tableflip.io) side project.
